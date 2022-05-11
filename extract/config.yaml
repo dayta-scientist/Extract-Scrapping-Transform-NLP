@@ -1,0 +1,9 @@
+news_sites:
+  ambito:
+    url: http://www.ambito.com/
+    queries:
+      homepage_article_links: '.title a'
+      article_body: '.note-body'
+      article_title: '.detail-header-wrapper h1'
+
+
